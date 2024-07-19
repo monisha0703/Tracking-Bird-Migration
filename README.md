@@ -5,7 +5,9 @@ The Bird Migration Tracking Project aims to  analyze the migration patterns of v
 
 Software: Python
 ->  numpy for numerical operations
+
 ->  pandas for data manipulation
+
 ->  matplotlib for data visualization
 
 Methodology
@@ -13,10 +15,13 @@ Methodology
 Data Collection:
 
 -> Gather data on bird species, GPS coordinates, timestamps, and environmental conditions.
+
 -> Store the collected data in CSV format.
 
 Data Analysis:
 
 -> Use numpy and pandas for data manipulation and analysis.
+
 -> Utilize matplotlib for data visualization.
+
 -> Perform statistical analysis to identify migration patterns and trends.
